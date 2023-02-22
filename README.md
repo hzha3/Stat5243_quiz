@@ -1,1 +1,1 @@
-# stat5243_week02_quiz
+# stat5243_quiz
